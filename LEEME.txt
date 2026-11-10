@@ -1,5 +1,12 @@
 EL CANTAR DE MÍO CID: 100 DECISIONES
 
+VERSIÓN ANDROID
+
+El APK está en «publicar\El Cantar de Mio Cid - Android.apk». Cópialo al
+teléfono y ábrelo para instalarlo. Si Android lo solicita, permite la
+instalación desde la aplicación con la que abras el archivo. Funciona sin
+conexión y requiere Android 7.0 o posterior.
+
 VERSIÓN EJECUTABLE
 
 En la carpeta «publicar» está «Instalar El Cantar de Mio Cid.exe». Ábrelo para

@@ -3,3 +3,13 @@ publicar/
 compilacion/paquete.zip
 src/build/Instalador-anterior.exe
 src/build/juego.zip
+android/.tools/
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
+android/app/src/main/assets/images/
+android/app/src/main/assets/decisiones.js
+android/app/src/main/assets/icon.png
+android/app/src/main/res/drawable-nodpi/*.png
+android/app/src/main/res/mipmap-*/ic_launcher.png

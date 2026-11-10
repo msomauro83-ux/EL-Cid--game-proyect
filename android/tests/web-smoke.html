@@ -1,0 +1,24 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head>
+<body>
+  <main id="app"></main>
+  <script src="../app/src/main/assets/decisiones.js"></script>
+  <script src="../app/src/main/assets/game.js"></script>
+  <script>
+    try {
+      document.getElementById('start').click();
+      document.querySelector('.choice[data-choice="0"]').click();
+      if (!document.getElementById('restart')) throw new Error('La respuesta errónea no terminó la partida');
+      document.getElementById('restart').click();
+      document.getElementById('start').click();
+      for (let i=0; i<100; i++) {
+        const correct=(i*7+1)%3;
+        const button=document.querySelector('.choice[data-choice="'+correct+'"]');
+        if (!button) throw new Error('Falta la decisión '+(i+1));
+        button.click();
+      }
+      if (!document.getElementById('again')) throw new Error('No apareció el final');
+      document.documentElement.dataset.test='PASS';
+    } catch(error) { document.documentElement.dataset.test='FAIL: '+error.message; }
+  </script>
+</body></html>
