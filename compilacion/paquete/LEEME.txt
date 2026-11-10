@@ -1,0 +1,8 @@
+EL CANTAR DE MÍO CID — 100 DECISIONES
+
+Abre ElCid.exe o el acceso directo creado en el escritorio.
+Selecciona una respuesta con el ratón. Debes acertar las 100 decisiones
+en una partida. Un error te devuelve al inicio.
+
+El juego incluye 102 ilustraciones y funciona sin conexión a Internet.
+Para quitarlo, usa «Desinstalar» en el menú Inicio.

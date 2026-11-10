@@ -1,0 +1,28 @@
+EL CANTAR DE MÍO CID: 100 DECISIONES
+
+VERSIÓN EJECUTABLE
+
+En la carpeta «publicar» está «Instalar El Cantar de Mio Cid.exe». Ábrelo para
+instalar el juego con sus 102 imágenes. Por defecto se instala para tu usuario
+de Windows y crea accesos con icono en el escritorio y en el menú Inicio.
+También aparece en Aplicaciones instaladas para poder desinstalarlo.
+
+Si prefieres jugar sin instalarlo, abre «publicar\Juego\El Cantar de Mio
+Cid.exe». Mantén juntos el ejecutable, «decisiones.txt» y la carpeta
+«imagenes».
+
+VERSIÓN ORIGINAL
+
+Para jugar con imágenes en Windows, haz doble clic en «Jugar grafico.cmd».
+El juego abre una ventana y no necesita conexión a Internet. Selecciona las
+respuestas con el ratón.
+
+La versión original de consola sigue disponible en «Jugar.cmd»; también puedes
+abrir una terminal en esta carpeta y ejecutar .\Jugar.cmd.
+
+En la consola, elige 1, 2 o 3 y pulsa Enter. Para ganar debes tomar las 100 decisiones
+correctas consecutivamente. Si fallas una, la partida termina y la siguiente
+empieza desde la primera decisión. Escribe S para salir.
+
+El juego adapta los acontecimientos del poema incluido en la carpeta
+«El Libro». El cantar es una obra literaria que mezcla historia y leyenda.
